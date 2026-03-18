@@ -504,4 +504,4 @@ if submitted:
         """, height=50)
 
 # ── Footer ─────────────────────────────────────────────────────────────────────
-st.markdown('<div class="footer-text">Built for Alan · AI Sales Personalizer · Powered by OpenAI GPT</div>', unsafe_allow_html=True)
+st.markdown('<div class="footer-text">Built for Alan · AI Sales Personalizer · Powered by OpenAI GPT · By Seyon Kathir</div>', unsafe_allow_html=True)
