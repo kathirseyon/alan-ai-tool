@@ -1,22 +1,10 @@
 """
 =============================================================
   AI SALES PERSONALIZER — Alan Internship Project
-  Author: Seyon | Built with Streamlit + OpenAI API
-=============================================================
-
-HOW TO RUN:
------------
-1. Install dependencies:
-      pip install streamlit requests beautifulsoup4 openai python-dotenv
-
-2. Set your OpenAI API key — paste it directly into line 40 below,
-   OR create a .env file in this folder containing:
-      OPENAI_API_KEY=sk-proj-your-key-here
-
-3. Run the app:
-      streamlit run app.py
-
-4. Open your browser to http://localhost:8501
+  Author: Seyon Kathir | Built with Streamlit + OpenAI API
+  
+  Scrapes a company website and generates lead intelligence
+  and a personalized outbound sales email using GPT.
 =============================================================
 """
 
